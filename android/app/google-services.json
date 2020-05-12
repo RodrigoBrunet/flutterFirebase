@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398325075649",
+    "firebase_url": "https://fir-novo-4e8ab.firebaseio.com",
+    "project_id": "fir-novo-4e8ab",
+    "storage_bucket": "fir-novo-4e8ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398325075649:android:6d789672ac230e94098e40",
+        "android_client_info": {
+          "package_name": "com.example.firebase_atual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398325075649-sra2mekkl48nc7vohvcrspfgiib4c5t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_atual",
+            "certificate_hash": "2b94c6e06af5b93986b0cbe55f98f71872e45873"
+          }
+        },
+        {
+          "client_id": "398325075649-riri1rl64ou9cvmoldqa9p1d1cv1k18a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0AsX5FmGa9_EAVrJwUF2qPGq0HoMwB_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398325075649-riri1rl64ou9cvmoldqa9p1d1cv1k18a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
